@@ -1,9 +1,7 @@
 ###############################################
 # Simulate data and fit Bayesian Linear Model #
 #
-# Mark Janko
-# UNC Biostatistics and Geography
-# 8.9.16
+
 ###############################################
 
 # Housekeeping
